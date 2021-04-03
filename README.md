@@ -1,6 +1,6 @@
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=booms21&show_icons=true&include_all_commits=true?count_private=true?include_all_commits=true&theme=vue" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=booms21&show_icons=true&include_all_commits=true?count_private=true?include_all_commits=true&theme=vue" />
 
 ##### Hi ～ 👋      一切源于热爱    -当时不杂，做好当下
 ##### 多多交流，一起学前端🤔
 
-<a href="https://segmentfault.com/u/luoyangzuichanganxing">我的思否技术文章（欢迎点赞）</a>
+##### <a href="https://segmentfault.com/u/luoyangzuichanganxing">我的思否技术文章（欢迎点赞）</a>
