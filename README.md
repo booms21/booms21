@@ -3,4 +3,4 @@
 ##### Hi ～ 👋      一切源于热爱    -当时不杂，做好当下
 ##### 多多交流，一起学前端🤔
 
-##### <a href="https://segmentfault.com/u/luoyangzuichanganxing">我的思否技术文章（欢迎点赞）</a>
+##### <a href="https://segmentfault.com/u/luoyangzuichanganxing">我的思否技术文章</a>
