@@ -3,3 +3,5 @@
 ##### Hi ～ 👋      一切源于热爱    -当时不杂，做好当下
 
 ##### 👉  <a href="https://segmentfault.com/u/luoyangzuichanganxing">我的思否技术文章</a>  💻
+
+![profile views](https://komarev.com/ghpvc/?username=booms21&style=plastic)
