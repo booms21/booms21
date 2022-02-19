@@ -3,5 +3,3 @@
 ##### Hi ～ 👋 
 
 ##### 👉  <a href="https://segmentfault.com/u/hello888">我的思否</a> 
-
-![profile views](https://komarev.com/ghpvc/?username=booms21&style=plastic)
