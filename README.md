@@ -4,5 +4,4 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7B278&width=435&lines=%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0+100%25;%F0%9F%92%99+Hi!+I'm+Najeee.;%F0%9F%92%99+A+Front-End+Developer.)](https://git.io/typing-svg)
 
-
 #####  👉  <a href="https://segmentfault.com/u/hello888">我的思否</a> 
