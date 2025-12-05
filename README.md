@@ -4,4 +4,4 @@
 </a>
 
 #####  👉 <a href="https://segmentfault.com/u/hello888">我的思否</a> 
-#####  👉 <a href="https://segmentfault.com/u/hello888">乱🐎7遭的blog 文档？</a> 
+#####  👉 <a href="https://booms21.github.io">乱🐎7遭的blog 文档？</a> 
