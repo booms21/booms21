@@ -6,7 +6,7 @@
 
 <br>
 
-####  👉 <a href="https://segmentfault.com/u/hello888">我的思否</a>    | ####  👉 <a href="https://booms21.github.io">大鱼的blog？</a> 
+####  👉 <a href="https://segmentfault.com/u/hello888">我的思否</a>    |   👉 <a href="https://booms21.github.io">大鱼的blog？</a> 
 
 
 
